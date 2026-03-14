@@ -1,0 +1,3 @@
+Joey doing visits the void, Joey Doom enters the void and he tries to find the answers to life. that's essentially his main mission, to become strong enough to withstand the void. to find the reason for suffering. 
+
+I really feel like this is basically personifying my own struggle which is trying to make sense of this human life and living in a chaotic noisy world, and a chaotic noisy brain that reflects it, it is painful it is so painful. and yet I think it is primarily because it is painful, that it is beautiful and worth living.
