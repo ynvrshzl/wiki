@@ -1,7 +1,9 @@
+![](https://images.pexels.com/photos/534283/pexels-photo-534283.jpeg)
+
 [#creativity]() [#cognition]()
 
 # Author Reader Perspective Theorem (ARP)
-Description: This theory describes the relationship between creating something, and viewing it. 
+This theory describes the relationship between creating something, and viewing it. 
 
 ## "ARP" - Foundational mechanics of human creativity
 
