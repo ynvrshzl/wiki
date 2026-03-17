@@ -3,7 +3,15 @@
 [#creativity]() [#cognition]()
 
 # Author Reader Perspective Theorem (ARP)
-This theory describes the relationship between creating something, and viewing it. 
+This theory describes the relationship between creating something, and viewing it.
+
+## Name
+In music, an "arp" is a sequence of notes that are repeating in a pattern, played one-by-one, like a series of steps. [√2](https://en.wikipedia.org/wiki/Arpeggio) Henceforth, in our observation, cyclical modulation between these states of human creativity, is essential to a long-term, sustainable body of work.
+
+## Symptomatic Origin
+Have you ever experienced that awful feeling; I spent hours painting this thing, or cooking this dish, only for our to turn out sour, after spending so much time? 
+
+Perhaps it's is stressing, frustrating, or maybe demoralizing. That last symptom, is what motivated us to fundamentally, reshape our approach to creative work. Thus, we noticed (and continue to study every day) these patterns.
 
 ## "ARP" - Foundational mechanics of human creativity
 
