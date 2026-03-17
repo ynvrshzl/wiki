@@ -5,7 +5,7 @@
 ### Purpose: "What is this wiki system?"
 In summary 
 
-### Architecture -  "How does this wiki system work?"
+### Architecture: "How does this wiki system work?"
 Architectural components, tools, and systems in this wiki.
 
 
