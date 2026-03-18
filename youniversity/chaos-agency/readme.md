@@ -4,7 +4,7 @@
 
 # Chaos Agency
 
-Chaos Agency is: __The study of navigating chaos and complexity, in everyday human life.__
+Chaos Agency is: __The study, field and philosophy of navigating chaos and complexity, in everyday human life.__
 
 ## Practical applications of this field
 
