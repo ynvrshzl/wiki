@@ -9,6 +9,10 @@ Chaos Agency is: __The study, field and philosophy of navigating chaos and compl
 ## Practical applications of this field
 
 - Help us human beings navigate complex systems. We can observe the patterns and learn the language of chaos and order.
+- Reduce cognitive suffering when working with complex, volatile systems
+
+## Systems
+Though we use the term _"systems"_ sparingly throughout the documentation, it applies to ....[??]
 
 ## Structural dimension of information
 If we think of information as geometric, then it is useful to imagine lists as being two-dimensional hierarchial branches. Why is this relevant? If we can condense information, into collapsible categories, then we are effectively witnessing organization.
