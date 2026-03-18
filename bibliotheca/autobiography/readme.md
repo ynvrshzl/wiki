@@ -1,6 +1,6 @@
 # Autobiography
 
-![alt text](./img/coffee-alt.webp)
+<!-- ![alt text](./img/coffee-alt.webp) -->
 ![alt text](./img/main.webp)
 ![alt text](./img/exclaim.jpg)
 ![alt text](./img/pfp-alt.jpg)
