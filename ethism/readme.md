@@ -20,7 +20,7 @@ Framework
 These are the core principles of Ethism.
 
 - Pillar I: Problem & Solution. There is a solution to every problem in life. It is found in life, not in death.
-- Pillar II: Utopia. There is no humantely-attainable utopia, but reduction of suffering is entirely achievable
+- Pillar II: Utopia & Perfection. There is no humantely-attainable utopia or perfection. (We have alot of deep analysis and theory explaining why)... but reduction of suffering is entirely achievable and the core driver of our work.
 
 
 ## "Principia Harmonia"
