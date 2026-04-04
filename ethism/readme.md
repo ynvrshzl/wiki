@@ -43,8 +43,13 @@ It is not about all of humanity; what we are, where we came from, who or what cr
 ## An antidote to nihilisim, existentialism, hopelessness, pointless suffering, cruelty, injustice
 While we do not believe there is a humanely-attainable utopia, perhaps pointless suffering is not a necessary compnent of human life.
 
-## ETA
-ETA is an abbreviation of (E)thics, (T)heory and (A)ction. But it is also a pre-existing abbreviation of (E)stimated (T)ime of (A)rrival. Symbolizing the significance of time, as a fundamental component of the human life.
+## $\sum \theta \alpha $ 
+_(ETA): These mathematical symbols are "Sum/E", "Theta" and "Alpha" which correspond to the acrynom "ETA."_
 
+ETA is an abbreviation of (E)thics, (T)heory and (A)autonomy. But it is also a pre-existing abbreviation of (E)stimated (T)ime of (A)rrival. Symbolizing the significance of time, as a fundamental component of the human life.
+
+
+
+## Footnotes
 
 [^3]: Citation needed...
