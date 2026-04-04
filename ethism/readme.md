@@ -1,10 +1,11 @@
-![20x20](https://upload.wikimedia.org/wikipedia/commons/3/3c/Yin_and_Yang_symbol.svg)
-
-# $Ethism$
+![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Yin_and_Yang_symbol.svg)
 
 [![](https://img.shields.io/badge/Philosophy-purple)](#) [![](https://img.shields.io/badge/Ethics-blue)](#)
 
-Ethism is our life's work as a philosophy. Integrating all of human fields, in an attempt to reduce suffering, and ideally, try to enjoy the minutaie or tiny miracles of this short human life. 
+# $\sum $ 
+_(Ethism)_
+
+__Ethism__ is my life's work, condensed as a working philosophy. Inspired by Viktro Frankl's Man's Search for Meaning, Logotherapy, and many other sources. [^3] Integrating all of human fields, in an attempt to reduce suffering, and ideally, try to enjoy the minutaie or tiny miracles of this short human life. 
 
 ## 1 - "Life is fundamentally pain."
 The Core Ethos of Ethism
@@ -44,3 +45,6 @@ While we do not believe there is a humanely-attainable utopia, perhaps pointless
 
 ## ETA
 ETA is an abbreviation of (E)thics, (T)heory and (A)ction. But it is also a pre-existing abbreviation of (E)stimated (T)ime of (A)rrival. Symbolizing the significance of time, as a fundamental component of the human life.
+
+
+[^3]: Citation needed...
