@@ -1,1 +1,0 @@
-Helena is the mother of [Katerina](katerina.md)

@@ -1,3 +1,0 @@
-# Youniverse
-
-- [Context](context.md)
