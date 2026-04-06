@@ -1,7 +1,11 @@
-__2026.03__
+### v0.0.0 
 
-- Renamed [~/obsidian/web](file:///home/hazl/obsidian/web) to [~/Wiki]()
+Date: 2026.03
 
-__2026.04.03__
+- Created wiki
 
-- to unify loose materials as part of the eventual Wiki... local files: [~/downloads/cloud](file:///home/hazl/Downloads/github/cloud-main) has been moved to a dedicated sub-folder in [~/Wiki/import/cloud](file:///home/hazl/Wiki)
+
+### v1.0.0
+Date: 2026.04.06
+
+- Merged system with local system

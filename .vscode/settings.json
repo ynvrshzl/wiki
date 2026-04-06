@@ -69,7 +69,7 @@
     "workbench.experimental.share.enabled": true,
     "editor.minimap.showSlider": "always",
     "workbench.editor.closeEmptyGroups": false,
-    "workbench.preferredDarkColorTheme": "Dark+",
+    "workbench.preferredDarkColorTheme": "Dark 2026",
     "accessibility.signals.clear": {
         "sound": "on"
     },
