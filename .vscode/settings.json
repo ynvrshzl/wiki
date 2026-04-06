@@ -118,7 +118,7 @@
     },
     "workbench.browser.openLocalhostLinks": true,
     "editor.minimap.enabled": false,
-    "workbench.iconTheme": "vs-seti",
+    "workbench.iconTheme": "a-file-icon-vscode",
     "material-icon-theme.activeIconPack": "none",
     "material-icon-theme.saturation": 0.7
 }
