@@ -1,0 +1,7 @@
+{
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.autofetchPeriod": 180,
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "workbench.preferredLightColorTheme": "GitHub Light"
+}

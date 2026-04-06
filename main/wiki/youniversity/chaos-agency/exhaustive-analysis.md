@@ -1,0 +1,5 @@
+# Exhaustive Analysis: A paradox of the irreducible tendency of mathematical analysis, in which analytical human thought, becomes not only fractionally obsessive, but can become harmful.
+
+We can trace back to surviving depression. From what we have been able to understand, depression seems to be an echo-chamber. When we become hyper-obsessive with a single thing, we lose sight of context. This can be fatal. Which is why so much of our work is dedicated to trying to understand these parts of human life.
+
+We want to challenge and have friction to these ideas, so that they can form into something real and practical and not just be, like, absurdly technical mathematical analysis. Because paradoxically, at the highest levels of mathematics, it's, like, no longer about numbers anymore, but it's using the language of mathematics to describe astrophysics and quantum mechanics and ridiculously complex fields where it's no longer numbers, but numbers are the language laid by mathematics. And that's what we're interested in here. 

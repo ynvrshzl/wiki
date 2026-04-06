@@ -1,0 +1,12 @@
+{
+  "accentColor": "#0da557",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Ubuntu Mono",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "cards"
+  ],
+  "baseFontSize": 16,
+  "cssTheme": "obsidian-enhanced"
+}

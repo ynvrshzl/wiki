@@ -1,0 +1,5 @@
+- offline mobile obsidian 
+- sync mobile ftp via pc
+- linux auto build obsidian + git tool
+- merge if needed 
+- commit to github

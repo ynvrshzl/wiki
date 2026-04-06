@@ -1,0 +1,6 @@
+- [to-do](to-do.md)
+- [rivalry](rivalry.md)
+- [description](description.md)
+- [versions](versions.md)
+- [vision](vision.md) 
+- [intelligence](intelligence.md)
