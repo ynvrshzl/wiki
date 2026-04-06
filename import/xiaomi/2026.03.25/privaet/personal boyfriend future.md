@@ -1,3 +1,0 @@
-Dt: 202603230714
-
-while I was walking outside today, I imagined myself in some black leggings, my favorite cute barefoot black flip flops with my toenails painted my favorite French pedicure. just feeling so happy clapping my sandals lol. and of all things, imagining my future husband next to me and just walking with him and just feeling so sexy for them and I just love that feeling so much cuz I feel so free and happy and I just want that so bad.
