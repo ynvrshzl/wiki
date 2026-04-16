@@ -1,3 +1,5 @@
+![](https://512pixels.net/wp-content/uploads/2025/06/12-Light-thumbnail.jpg)
+
 __The "Wiki" project.__ 
 
 A decentralized, open-source, multi-domain knowledge-information-humanitarian project by [hazl.](https://github.com/ynvrshzl)
