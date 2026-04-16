@@ -1,0 +1,124 @@
+[
+ {
+  "path": "README.md",
+  "name": "README",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "dist/obsidian-database-generator.md",
+  "name": "obsidian-database-generator",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "dist/readme.md",
+  "name": "readme",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/authoring.md",
+  "name": "authoring",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/history.md",
+  "name": "history",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/intro.md",
+  "name": "intro",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/name.md",
+  "name": "name",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/accessibility.md",
+  "name": "accessibility",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/philosophy.md",
+  "name": "philosophy",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/readme.md",
+  "name": "readme",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "docs/github.md",
+  "name": "github",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/ethiology/readme.md",
+  "name": "readme",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/ethiology/symbol.md",
+  "name": "symbol",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/youniversity/README.md",
+  "name": "README",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/youniversity/physics/credits.md",
+  "name": "credits",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/youniversity/physics/equation.md",
+  "name": "equation",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/youniversity/physics/intro.md",
+  "name": "intro",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/youniversity/physics/readme.md",
+  "name": "readme",
+  "frontmatter": {
+   "image": "https://images.pexels.com/photos/9785607/pexels-photo-9785607.jpeg?w=800"
+  },
+  "outlinks": []
+ },
+ {
+  "path": "public/youniversity/purpose.md",
+  "name": "purpose",
+  "frontmatter": {},
+  "outlinks": []
+ },
+ {
+  "path": "public/readme.md",
+  "name": "readme",
+  "frontmatter": {},
+  "outlinks": []
+ }
+]
