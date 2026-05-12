@@ -1,14 +1,17 @@
-![](https://512pixels.net/wp-content/uploads/2025/06/12-Light-thumbnail.jpg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgiIGhlaWdodD0iMTA4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2FhYWFhYSIgc3Ryb2tlLXdpZHRoPSIwLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtcm90YXRlM2QtaWNvbiBsdWNpZGUtcm90YXRlLTNkIj48cGF0aCBkPSJtMTUuMTk0IDEzLjcwNyAzLjgxNCAxLjg2LTEuODYgMy44MTQiLz48cGF0aCBkPSJNMTYuNDcyMTQgNy41Mjc4NiBBIDUgMTAgMCAxIDAgMTMgMjEuNzk3OTYiLz48cGF0aCBkPSJNMjEuNzk3OTYgMTEgQSAxMCA1IDAgMSAwIDE5IDE1LjU3MDcxIi8+PC9zdmc+)
 
-__The "Wiki" project.__ 
+###### "Wiki" project
 
-A decentralized, open-source, multi-domain knowledge-information-humanitarian project by [hazl.](https://github.com/ynvrshzl)
+This is a local, personal, open-source, multi-domain knowledge-information-humanitarian project. Sharing open-source, timeless information, using today's technologies, to assist in solving real-world issues, we face today.
 
-- [Explore the "wiki" here](public/readme.md)
-- [Introduction](docs/intro.md)
-- [History](docs/history.md)
+###### Index:
+
+- Explore the "wiki" [here](public/readme.md)
+- [Introduction](docs/intro.md) to this project
+- [History](docs/history.md) of this project
 - [Name](docs/name.md)
 
 ---
 
-Copyright (C) 2026 Hazl
+Credits: <br/>
+<sub>Copyright (C) 2026 [Hazl](https://github.com/ynvrshzl)</sub>
