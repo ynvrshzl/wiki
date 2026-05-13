@@ -1,0 +1,1 @@
+"Unforseen complexity" is a principle in dynamic systems... unexpected protocols and variables, emerge out of simple decoupling of processes... and then communication becomes a responsibility... almost like bridges between things.
