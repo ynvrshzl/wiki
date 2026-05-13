@@ -1,0 +1,1 @@
+(how much raw knowledge you "know" about a subject, person, or thing.)

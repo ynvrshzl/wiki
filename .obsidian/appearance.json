@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ce2ca3",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "cards"
+  ],
+  "baseFontSize": 16,
+  "cssTheme": "obsidian-enhanced"
+}

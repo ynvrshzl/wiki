@@ -1,5 +1,7 @@
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgiIGhlaWdodD0iMTA4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2FhYWFhYSIgc3Ryb2tlLXdpZHRoPSIwLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtb3JiaXQtaWNvbiBsdWNpZGUtb3JiaXQiPjxwYXRoIGQ9Ik0yMC4zNDEgNi40ODRBMTAgMTAgMCAwIDEgMTAuMjY2IDIxLjg1Ii8+PHBhdGggZD0iTTMuNjU5IDE3LjUxNkExMCAxMCAwIDAgMSAxMy43NCAyLjE1MiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjUiIHI9IjIiLz48Y2lyY2xlIGN4PSI1IiBjeT0iMTkiIHI9IjIiLz48L3N2Zz4=)
 
+__wiki/@editing__
+
 This branch of the wiki is dedicated to actively **authoring, edting, draft versions** of writings, to be eventually published & integrated into the [main wiki.](https://github.com/ynvrshzl/wiki)
 
 To oragnize the vast amount of incoming information noise from Hazl's tired brain, we created a separate, third branch "import."
