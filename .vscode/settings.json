@@ -69,7 +69,7 @@
     "workbench.experimental.share.enabled": true,
     "editor.minimap.showSlider": "always",
     "workbench.editor.closeEmptyGroups": false,
-    "workbench.preferredDarkColorTheme": "Dark 2026",
+    "workbench.preferredDarkColorTheme": "Dark+",
     "accessibility.signals.clear": {
         "sound": "on"
     },
@@ -118,7 +118,7 @@
     },
     "workbench.browser.openLocalhostLinks": true,
     "editor.minimap.enabled": false,
-    "workbench.iconTheme": "a-file-icon-vscode",
+    "workbench.iconTheme": "vs-seti",
     "material-icon-theme.activeIconPack": "none",
     "material-icon-theme.saturation": 0.7
 }

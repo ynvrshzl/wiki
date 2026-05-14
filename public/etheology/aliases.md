@@ -1,4 +1,0 @@
-- Ethematics
-- Ethism
-- Etheology
-- Ethos
