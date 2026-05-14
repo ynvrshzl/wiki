@@ -1,5 +1,3 @@
-# Philosophy of this project
-
 The philosophy of this Wiki project is at it's core: **sharing information that I think is really important, interesting or useful.**
 
 This is basically how i'm organizing my spaghetti brain (lol)... it's not meant to be a public encyclopedia of human resources, rather... It's a strange craft, to say the least. This is a project to try and make sense of my otherwise,a hyper-caffeinated, sleepy, spaghetti, brilliant little difference engine... 
