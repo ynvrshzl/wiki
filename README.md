@@ -1,15 +1,15 @@
-__W.i.k.i__
+W.i.k.i.
 
-"World Information Kinetic Integration"
+_"World Information Kinetic Integration"_
 
 This project is a decentralized, open-source, collaboratibe, multi-domain knowledge-information-humanitarian web project, developing by [@hazl](https://github.com/ynvrshzl) to contribute in solving __mutual, local real-world issues, we face today.__
 
 
-
-[🖈 Wiki](public/readme.md) 𐤟
+[🖈 Open the wiki](public/readme.md) 𐤟
 [System docs](docs/readme) 𐤟
-[Directories](docs/directories.md) 𐤟
+[System map](docs/system/directories.md) 𐤟
 [🛈 Credits](docs/credits.md) 𐤟
+
 
 
 ---
