@@ -3,14 +3,19 @@ When accessing this Wiki through a server, or external interfaces, the database 
 
 ## Schema reference
 The basic anatomy of a file's database
+
+- path
+- name
+- folder: the folder of the current file as "String" 
+- outlinks: an [Array] of external links
+
 ```json
 [
     {
-        // example
         path: "string",
         name: "string",
         folder: "string",
-        outlinks: "string",
+        outlinks: [],
         date: [
             modified: "UTC",
             created: "UTC",
