@@ -1,6 +1,4 @@
-<!--- **Introduction to the "Wiki" project** --->
-
-Welcome to our **"Wiki."** 
+Introduction to the "Wiki" project.
 
 This project is a personal system for me to manage my spaghetti noisy brain (lol, i'm serious) and try to make sense of it, to find something good and fun.
 
