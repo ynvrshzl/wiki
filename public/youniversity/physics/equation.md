@@ -4,4 +4,4 @@ $$
 
 ---
 
-Description: an example of a physics equation. Denoting the summation of Einstein's theory
+<sub>Fig. An example of a physics equation. Denoting the summation of Isaac Newton's "f = ma" equation.</sub>
