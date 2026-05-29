@@ -1,0 +1,12 @@
+At the central field of this study, Information Economics is focused on the concept of "Biomechanical Resources."
+- Time
+- Energy
+- Attention
+- Effort
+- Ability
+- Complexity
+- Memory
+- Problem-solving
+- Creativity
+- Prediction
+- Recall
