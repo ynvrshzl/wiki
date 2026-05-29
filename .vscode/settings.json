@@ -15,7 +15,7 @@
     "terminal.integrated.smoothScrolling": true,
     "markdown.updateLinksOnFileMove.enabled": "always",
     "terminal.integrated.stickyScroll.enabled": false,
-    "workbench.preferredHighContrastColorTheme": "Light+",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
     "workbench.startupEditor": "readme",
     "window.autoDetectColorScheme": true,
     "search.collapseResults": "alwaysCollapse",
