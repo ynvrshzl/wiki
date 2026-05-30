@@ -1,2 +1,2 @@
 [alias]
-    olog = log --oneline --graph
+    g = log --oneline --graph
