@@ -1,4 +1,3 @@
-this field of study centralizes on this main model of human resources, in the age of information
 - Time
 - Energy 
 - Attention 
