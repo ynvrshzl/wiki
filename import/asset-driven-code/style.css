@@ -1,16 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 body {
-      font-family: 'Inter', serif;
+      font-family: 'Inter';
       background: rgb(43, 43, 43);
-      background: black;
       color: rgb(230, 230, 230);
-      width: 400px;
+      max-width: 40ch;
       line-height: 1.5;
       margin: 0 auto;
   }
+  hr {
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid #ffffff20;
+  }
+  summary {
+    color: grey;
+    width: 100%;
+    cursor: pointer;
+  }
+  summary:hover {
+    color: white;
+  }
   h1, h2, h3, h4, h5, h6 {
-    font-family: Helvetica, sans-serif;
     line-height: 1;
     border-left: 2px solid grey;
     padding-inline-start: 1rem;
