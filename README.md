@@ -1,4 +1,4 @@
-__`wiki/io`__
+"wiki/io"
 
 Input/Output stream for wiki.
 
