@@ -3,6 +3,14 @@ Conceptualizing structures as dimensions of information, helps establish the ide
 
 In this sense, this is the "Cartography of information for human beings."
 
+## Significance
+The significance of this study is implicated across creative, information-distribution fields:
+- Code
+- Education
+- Science
+- Architecture
+- Etc.
+
 ## 1D, link 
 uni-dimensional, bi-directional.
 
