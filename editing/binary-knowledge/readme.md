@@ -1,1 +1,1 @@
-(how much raw knowledge you "know" about a subject, person, or thing.)
+Binary knowledge describes how much **raw** knowledge someone contains about a subject, person, or thing.

@@ -8,5 +8,8 @@
     "cards"
   ],
   "baseFontSize": 16,
-  "cssTheme": "obsidian-enhanced"
+  "cssTheme": "obsidian-enhanced",
+  "floatingNavigation": false,
+  "slidingSidebar": false,
+  "autoFullScreen": true
 }
