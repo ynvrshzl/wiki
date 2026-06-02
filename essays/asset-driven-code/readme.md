@@ -1,8 +1,48 @@
 # "Asset-based, Code"
 A study on code driven by assets; reuseable language patterns over generalized units.
 
+## 1.0 Variables
+"The hidden power of the variable"
 
-## Proposition and Observations
+In programming, we often treat variables as indispensable tokens for storage. but variables are far more powerful , if we treat them as a grammar token, a fundamental unit of power, a unit of memory. 
+
+- A variable is a token of memory.
+- A variable is also a placeholder for a value.
+- A variable is a link to data
+- A variable also provides the foundations of pattern in code.
+- Patterns allow us to avoid repeating details; and chunk memory.
+
+
+### 1.0.1 Why?
+**What is the purpose of a variable?**
+a variable, at its core, is a unit of memory —**however, memory and storage are not the same thing.**
+
+### 1.0.2 Significance 
+Take this example:
+
+```SQL
+WHERE "<b>" + CHOICE(TABLE, "None") + "</b>"
+```
+
+If we apply the idea "variables are links"... we see the code as algebraic, rather than mashups of domains:
+
+```SQL
+WHERE B + DS + Bb
+```
+
+```SQL
+FLATTEN "<b>" AS B
+FLATTEN "</b>" AS Bb
+FLATTEN CHOICE(TABLE, "None") AS DS
+```
+The code has been decoupled of complex domains, abd as a result, it is conceptually readable.
+
+### 1.0.3 Disambiguations
+What separates variables as links, and merely abstraction?
+
+## 2.0 Proposition and Observations
+Prepositions for an asset-driven code workflow/language.
+
 I often find it difficult to focus on what product of the code, the reason I'm writing. this happens for a multitude of multifactorial reasons, but I've noticed that the strongest pattern, isn't even specific to code; it's applicable to create a human behavior across domains.
 
 This is the reason we as human beings naturally create workflows that reduce friction caused by ..., e.g.,
