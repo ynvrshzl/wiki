@@ -1,0 +1,1 @@
+This branch is dedicated to research such as Science and Mathematics. Eventually to be merged with the [Main wiki](https://github.com/wiki)
