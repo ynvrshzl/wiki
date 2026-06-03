@@ -2,9 +2,12 @@
   "name": "main",
   "version": "1.0.0",
   "description": "Github local mirror of Wiki",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prestart": "node cli/preprocessor.js",
+    "build": "node scripts/database",
+    "start": ""
   },
   "keywords": [
     "wiki"

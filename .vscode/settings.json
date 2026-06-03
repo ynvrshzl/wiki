@@ -42,7 +42,6 @@
     "vim.useCtrlKeys": false,
     "workbench.tree.indent": 20,
     "explorer.confirmDelete": false,
-    "editor.fontFamily": "'Ubuntu Mono'",
     "markdown.preview.fontFamily": "\"Noto Sans\", \"Fira Sans\", \"Noto Sans\", -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
     "editor.stickyScroll.enabled": false,
     "search.showLineNumbers": true,
