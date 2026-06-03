@@ -1,5 +1,3 @@
-"A meaningful life"
-
 This is perhaps one of the most important aspects of human life, human experience, and human nature. The hypthesis is this; "how do i know i'm living a good life?"
 
 We cannot define this merely by our material circumstances; becuase this becomes insufficient when our identity and beliefs are confronted with the tragedies in life.
@@ -21,3 +19,9 @@ In conclusion, the days i remember are, by definiton, memorable. Memorable days 
 In this sense it is no longer about "do i remember what II did this day?" The memory becomes a agentic force of life; becuase it carries experiential sensory data. Something like that is unique to the human being; impossible to re-produce... and for us human beings, that is the kind of stuff that powers stories and civilizational advancement. When we can carry a moment in time, of our experience, and "replay" the memory. Remembering lessons, ideas, and stages in one's "metamorphosis."
 
 In final conclusion, i hypothesize memory is incredibly powerful! Memory and meaning are critical bonds for the human experience!
+
+This may all converge into a single hypothesis: "As Viktor Frankl has shared with us through his life's work, the last of human freedom is the freedom to choose. To believe. To say 'yes to life in spite of everything.' This may be a fundamental idea of consciousness as the last, true human agency... the person who is conscious has an opportunity to participate in life unconditionally; and unconditional participation is what defines truth. True love. True friendship. Unconditional. The person who drifts in life, lives conditionally, unconscious. Unaware. Memory becomes either insignificant or consuming. The force of life, which defines the human being, may be our human autonomy; to choose to participate."
+
+I'm not sure if i drifed too far into "meaning of life" there but... I am trying to understand what defines a "meaningful life for a human being." There are several components, but memory, especially episodic daily memory, is one of the major areas.
+
+Especially when we make the connection between memory + consciousness. When one can remember, when one is conscious, the memory is meaningful. The days become more meaningful. In aggregate, life becomes having worth lived. There is no better feeling for a human being than that. No pleasure or success, or even pain, can change the satisfaction of a life worth having lived. Viktor Frankl has shown it is so.
