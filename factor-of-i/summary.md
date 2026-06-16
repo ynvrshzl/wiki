@@ -1,0 +1,2 @@
+- Importance can become a burden when there is an overflow of possibility vs. actionability.
+- The schedule is a principle tool of authoring & importance
