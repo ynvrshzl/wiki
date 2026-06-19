@@ -1,4 +1,4 @@
-> *"This is the last of human freedoms that cannot be taken away."*
+*"The last of human freedoms, is the ability to choose one's perspective, in any given situation... cannot be taken away."*
 *&mdash; Viktor Frankl*
 
 # "Zeroth Element"
