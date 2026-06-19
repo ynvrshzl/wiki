@@ -1,4 +1,10 @@
-# The Omega and Alpha
+> *"This is the last of human freedoms that cannot be taken away."*
+*&mdash; Viktor Frankl*
+
+# "Zeroth Element"
+The Zero-th element of human being is perhaps the most significant: *"what makes (you) want to live? do you want to live?"*
+
+These questions are rarely part of daily human life... they are embedded with living itself... but
 
 ## 1.0 - Abstract
 The "Alpha" is the part of you that wants to live. 
