@@ -1,4 +1,4 @@
-# Mechanics of Focus
+# Mechanics of Focus: The machinery of autonomy and ...
 
 Focus is a key human ability. Spanning across all of our systems to work in unison.
 
@@ -9,7 +9,9 @@ When asking the question "How do I focus on the right thing?" we must approach i
 
 Archaeologically speaking, if we study history, the work of figures, the biographies and autobiographies of brilliant people
 
-Many people thorughout history had ADHD, including: [Isaac Newton](), [Wolfgang Amadeus Mozart]()
+Many people thorughout history had ADHD, including: [Isaac Newton](), [Wolfgang Amadeus Mozart]() and even []()
+
+What did these people have in common? How...
 
 ## 0.0 - Abstract
 
@@ -22,7 +24,10 @@ Human life is not defined by what we do, but how we are remembered.
 
 
 ## 1.0 - Proposition
-What if focus shouldn't be forced; what if our ability to be distracted should be harnessed as a strength?
+What if focus should not be forced; what if our ability to be distracted, itself, is a strength?
+
+### 1.0.1 - Energy Dispersion Model
+A key idea in the mechanics of focus,
 
 ## 2.0 - Automation, Abstraction and Synergy
 "These are the kind of days that made up for all the lost time." In a sense, who is to judge what is "wasted time" in the grand scheme of human life?
