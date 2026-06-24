@@ -28,26 +28,3 @@ This is just as fascinating than how we learn languages as human beings, because
 From what we have studied, The only reason natural language works is because you cannot invent new systems at the structural level, but you can express using composition (and various other fascinating elements of linguistics). this is exactly at the level which source code is fragmenting; structure of source code, is the linguistic equivalent of operating with characters, at the lexical level. This means the developer can create their own systems and logic. this results in a discordance and fragmentation, because the level is still too granular for applied software engineering. we need to move upwards to the natural language baseline abstraction, at the level of words. a letter is too abstract, but a word is the smallest unit of meaning. from words, other words can be built and defined.
 
 given this, the main project of this web components idea, is actually somewhat of a library for a larger interface project I'm working on, cybernetica. but that's a discussion for another day. for now, I want to experiment and research, very craft with different syntax constraints, deliberately limiting the range of what is possible with source code, essentially acting as an interface between endless source possibility, and systems-oriented fluent language design.
-
-### 2.0 - Proposed models
-
-### 2.0.1 - Type 1 Variants A
-the first syntax variant, is essentially using pure objects and classes and nothing else. this means we remove everything else from the language. keywords, symbols, and we express everything as natural language objects in classes. everything is a chain, much like natural language sentences. 
-
-e.g.,
-
-```JS
-new Button("Main").reuse(1).inside(Elemen("main"))
-```
-
-it's a fascinating constraint syntax, and it's already being prototyped. 
-
-### 2.0.2 - Type 1 Variant B
-there's another variant of the same type, where instead of passing in functions as references, everything is chained, even references. this requires an internal memory model for state, which could slow down the performance of programs, but as of now that is not a concern. 
-
-
-fig.
-
-```JS
-new Button("Main").reuse(1).inside().Elemen("main")
-```
