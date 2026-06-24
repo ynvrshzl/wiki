@@ -14,22 +14,4 @@ and that's really the humanitarian aspect of this project, that's why it's calle
 
 given this, here are my ideas for syntax. note, that these are not merely new paradigms or apis or domain specific languages, it's an entirely different way to think about and author code, much like how SQL completely transforms our abilities to work with data effectively, despite it's domain limitations.
 
-## 1.0 - Variant A Type 1
-
-fig.
-
-```JS
-new Compound("Glutamine").chem("C11").ann("Here it stops the bond...").chem("G2")
-```
-
-where everything is assembled via objects and classes. everything else within a systems language would be essentially removed. the only interface would be objects and classes. the benefit of this is, the syntax would produce natural constraint, and pattern. following the main principles of this project. 
-
-however, it requires essentially designing a micro processor, within the source language (JS)... because when we remove all code except what is absolutely functional as a self-contained units (objects and classes) we have to basically recreate functionality of keywords and built-in systems. however, I hypothesize there is no work around this; it simply part of a construction and engineering of language cartography crafting. 
-
-## 2.0 - Variant A Type 2
-
-fig.
-```
-
-```
 
