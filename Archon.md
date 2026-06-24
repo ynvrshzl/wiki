@@ -1,1 +1,0 @@
-to me it's the best editor on mobile though if you really want to access the same sentiments from Netflix

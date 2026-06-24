@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archon.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archon"
+              "title": "README"
+            }
+          },
+          {
+            "id": "a4a58b3a2773b72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/concepts/archon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "archon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,9 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a4a58b3a2773b72c",
   "lastOpenFiles": [
-    "Archon.md",
+    "lore/concepts/alter-egos.md",
+    "README.md",
+    "lore/concepts/archon.md",
     "world/observatory/main.md",
     "world/observatory",
     "lore/concepts/main.md",
@@ -180,7 +197,6 @@
     "editing/youniverse/books/the-adventures-of-pilot-aerys/summary.md",
     "system/tools/domains.md",
     "Homepage.md",
-    "README.md",
     "editing/baseline-abstraction/main.md",
     "editing/baseline-abstraction",
     "Discovery.md",
