@@ -128,7 +128,6 @@ class Machine extends State {
 
 }
 
-class Type { }
 class Alias { }
 class Block { }
 class Unit {
