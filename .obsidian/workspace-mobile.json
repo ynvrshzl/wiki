@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "basis/author's framework workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "author's framework workflow"
             }
           }
         ]
@@ -170,6 +170,15 @@
   },
   "active": "201ee196a3f71cda",
   "lastOpenFiles": [
+    "basis/author's framework part 42.md",
+    "basis/author's framework workflow.md",
+    "basis/metakaterina.md",
+    "basis/jaeydn.md",
+    "basis/final-archon-doom.md",
+    "basis/wordcartography.md",
+    "imported/cartography/main.md",
+    "basis",
+    "README.md",
     "export/projects/web-notebooks/readme.md",
     "export/projects/web-notebooks/GPT.md"
   ]
