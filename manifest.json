@@ -1,7 +1,7 @@
 {
     "project": {
-        "version": "x.x.x",
-        "description": "Github local mirror of Wiki"
+        "version": "1.0.0",
+        "description": "Git local mirror of Wiki project."
     },
     "git": {
         "updated": "2026-04-16T10:23:00"
