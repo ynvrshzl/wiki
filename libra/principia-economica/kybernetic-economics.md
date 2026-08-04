@@ -1,8 +1,6 @@
 ---
 title: principia-economica
 ---
-
-# Principia Economica
 ## What is the purpose of work? 
 Proposition: Work directly depends on it's depth of influence and meaning, ...finite resources, and for continuity.
 
@@ -32,8 +30,14 @@ We undersatnd things when cause and effect are embedded into a coherent continui
 Errata is a general class of fragmentation, wether at continuity
 
 
-## Appliaction
-I have alot of areas of my work spans. From computers to philosophy, to physics, music and productivity. While one may assume "there's no way she can focus on all of that," this is largely incorrect; Polymaths are not wizards (...atleast I think...)
+## Fidelity & Resolution
+The difference between the micro and macro is always relative, and the relative is determined by the continuity of the self; where am I, where have I been, and where am I going? These are embedded questions; they appear not as explicit functions but as implicit dynamics, interwoven with everyday life.
+
+What this means is...
+
+Implementation reveals complexities. Meaning, work must be fundamentally driven by something beyond implementation
+## Application
+From computers to philosophy, to physics, and music, our work spans several domains, but they are not as separate as they appear to be. Philosophy is interwoven with music, and computers allow music to be distributed.
 
 ### How do we determine priority?
 Based on our previous research, priority cannot be arbitrarily engineered; it must be in coordinated contract to the Telos.
