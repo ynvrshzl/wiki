@@ -19,6 +19,34 @@ Attempting to craft a system that will explain where you should go, and why, end
 
 It is at the point, between the mythic and epistiemological, that the mythic represents the phenomenological...
 
+### Improved models
+This is where Kybernetics has an updated model: The study of Kybernetics is of orientation in spaces of chaos and order.
+
+### Pervasive
+The pervasiveness of analysis-paralysis even shows up in unexpected places; the phenomenelonigcla heart of this field, is my local battles with health, focus, orientation, priority, overwhelm, management, understanding, indecision and productivity. Yet what remained clear amongst the maelstrom, was a faint glimmer of meaning; a Telos.
+
+
+### Application
+"There is no perfect model with sophisticated features, only sustainable cycles of engines of the clockworks of life."
+
+### Model Kybernetic
+
+This is directly applicable to crafting and engineering:
+- Constrainted search space, i.e,. simplicity
+- Patterns emerge from constrained components
+- Patterns form abstractions
+- Elegance and optimization are earned from a return to simplicity, not mere abstraction.
+
+This is apparently, the architecture of living things, and therefore; of sustainable systems.
+
+### Phases
+Phase zero of Kybernetics: "Telos": "What matters?"
+
+Phase one of Kybernetics "Acceptance": "This doesn't need to be the most important work in the world, it simply needs to move the arrow forward, somewhere we may not be able to see ahead of... but somewhere nonetheless."
+
+Phase two of Kybernetics: "Growth": "While movement is better than stagnation, resources are finite. Organic growth depends on structure and space for creativity and search."
+
+Phase three of Kybernetics: "Orientation": "Where am I going?"
 ## The story
 
 Kybernetics began as a study of non-finite spaces and finite systems and resources and living things. Eventually, it evolved into an analysis of applied epistemology and problem-solving, for orientation and navigation in non-finite spaces.
