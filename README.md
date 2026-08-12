@@ -1,8 +1,8 @@
-This project is a decentralized, open-source, collaborative, multi-domain knowledge-information-humanitarian web project, developing by [@hazl](https://github.com/ynvrshzl) to contribute in solving __mutual, local real-world issues, we face today.__
+# README
+The wiki project (temporary pseudonym) is a knowledge interface to the world and the human. Knowledge is power, but without instruments, cannot be used. This project ultimately explores this as a central thesis.
 
-- [Main wiki](public/readme.md)
-- [System](docs/readme)
-- [Directory](docs/system/directories.md)
-- [Credits](docs/credits.md)
+You may read an introduction to the project [here](docs/readme.md) or read a plain version of the wiki [here. (coming soon)](#)
+
+---
 
 <sub>Copyright (C) 2026 [@Hazl](https://github.com/ynvrshzl) </sub>
