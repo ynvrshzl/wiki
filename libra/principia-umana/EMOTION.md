@@ -14,3 +14,9 @@ What's even more fascinating, was revealed to me in both; Viktor Frankl's work (
 
 
 One can feel absolutely nothing (depressive anhedonia), physically lethargic, completely lost, and yet be immensely engaged with meaning. This is single-handedly the sprout of life; even preceeding the human will to live.
+
+
+## Experimental: Sleep deprivation and Emotional Sensitivity
+Under no circumstances do I promote sleep deprivation. I do however, acknowledge it's powerful manifold effects on the psyche and emotional sensitivity. 
+
+Sensitivity is not merely "feeling deeper," it is systematically "aware of what already exists." That is perhaps, the purpose of emotion, and in general, systems communication (citation via: kybernetics)
